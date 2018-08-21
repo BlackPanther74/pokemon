@@ -1,0 +1,18 @@
+.box {
+  background-color: blanchedalmond;
+  border: 1px solid red;
+  width: 400px;
+  height: 400px;
+}
+
+.myborder{
+  border: 1px solid black;
+}
+
+header {
+  text-align: center;
+}
+
+.card-title {
+  color: black !important; 
+}
